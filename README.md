@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=beiggner&fontSize=70)
-<hr/>
+
 
 ### 🛠 what i'm studying ###
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
