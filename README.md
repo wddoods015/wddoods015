@@ -1,5 +1,5 @@
 # begginer
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-EAC751?style=flat-square&logo=pandas&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Html-E40AD8?style=flat-square&logo=html&logoColor=pink"/></a> 
 <img src="https://img.shields.io/badge/Css-0238A4?style=flat-square&logo=#F43059&logoColor=deepblue"/></a>
