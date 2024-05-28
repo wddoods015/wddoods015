@@ -1,16 +1,17 @@
-## Hi there 👋
+# begginer
+<hr><hr/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
-<!--
-**wddoods015/wddoods015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/pandas-EAC751?style=flat-square&logo=pandas&logoColor=black"/></a>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Html-E40AD8?style=flat-square&logo=html&logoColor=pink"/></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Css-0238A4?style=flat-square&logo=#F43059&logoColor=deepblue"/></a>
+
+<img src="https://img.shields.io/badge/React-EC3801?style=flat-square&logo=React&logoColor=orange"/></a>
+
+<img src="https://img.shields.io/badge/JavaScript-029E15?style=flat-square&logo=JavaScript&logoColor=green"/></a>
+
+
+
+
