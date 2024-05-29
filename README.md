@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=beiggner&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=beiggner&fontSize=70)
 
 
 ### 🛠 what i'm studying ###
