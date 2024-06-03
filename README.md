@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=beiggner&fontSize=70)
 
-## (K-digital) AICC 웹서비스개발 과정 ##
+## (K-digital) AICC Web Service ##
 #### 2024 / 04 / 12 ~ ####
  
 
