@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=beiggner&fontSize=70)
 
-## 🛠 AICC 웹서비스개발 과정 ##
-24. 04 12 ~ 
+## (K-digital) AICC 웹서비스개발 과정 ##
+2024. 04. 12. ~
+ 
 
 ### 🛠 what i'm studying ###
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
