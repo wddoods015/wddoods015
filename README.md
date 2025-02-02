@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=FrontEnd%20Developer&fontSize=70)
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <p align="center">
